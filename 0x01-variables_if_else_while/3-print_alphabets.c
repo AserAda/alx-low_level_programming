@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main- will show if greater than 5, less than 6 or 0
+ * main- will printout alphabet
  * Return: will returns 0
  */
 
