@@ -3,10 +3,9 @@
 #include <stdio.h>
 
 /**
- * main- will show all possible different combinations of two digits
+ * main- will show all possible different combinations of three digits
  * Return: will returns 0
  */
-
 int main(void)
 {
 int i, e, g;
