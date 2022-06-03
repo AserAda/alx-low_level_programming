@@ -4,8 +4,8 @@
 
 /**
  * main- base 10 starting from 0
- * Return: will returns 0                                                       */
-
+ * Return: will returns 0
+ */
 int main(void)
 {
 int i;
