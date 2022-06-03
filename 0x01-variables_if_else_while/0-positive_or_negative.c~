@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
- * main will show if positive, negative or zero
- * Return will returns 0
+ * main- will show if positive, negative or zero
+ * Return- will returns 0
  */
 int main(void)
 {
