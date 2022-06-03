@@ -2,6 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 
+/* main will define for positive, zero or negative number*/
+
 int main(void)
 {
   int n;
