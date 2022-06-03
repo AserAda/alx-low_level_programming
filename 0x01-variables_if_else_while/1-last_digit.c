@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
- * main- will show if greater than 5, less than 6 or 0                          * Return: will returns 0
- */
+* main- will show if greater than 5, less than 6 or 0
+* Return: will returns 0*/
 int main(void)
 {
 int n, l;
