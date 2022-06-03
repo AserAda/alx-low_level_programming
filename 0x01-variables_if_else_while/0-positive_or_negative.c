@@ -3,9 +3,7 @@
 #include <stdio.h>
 
 /* main- will define for positive, zero or negative number
- * Return will return 0
-*/
-
+ * Return will return 0*/
 int main(void)
 {
 int n;
