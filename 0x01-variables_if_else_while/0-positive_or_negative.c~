@@ -2,8 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 
-/* main- will define for positive, zero or negative number
- * Return will return 0*/
+/**
+ * main will show if positive, negative or zero
+ * Return will returns 0
+ */
 int main(void)
 {
 int n;
