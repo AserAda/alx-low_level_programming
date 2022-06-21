@@ -1,0 +1,1 @@
+this is for pointer array and strings
